@@ -257,6 +257,22 @@ youtube-viral-clipper/
 └── .gitignore
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🔮 Roadmap
+
+- [ ] Google Drive integration for clip storage
+- [ ] Stripe payment processing
+- [ ] Email notifications
+- [ ] Mobile app (React Native)
+- [ ] Advanced analytics
+- [ ] Multi-language support
+
+----
 
 **Built with ❤️ by Wuike and Wuikewrite**
 
